@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-07T12:42:50 CET" name="Default suite" finished-at="2022-03-07T12:42:54 CET" duration-ms="3146">
+    <groups>
+    </groups>
+    <test started-at="2022-03-07T12:42:50 CET" name="Default test" finished-at="2022-03-07T12:42:54 CET" duration-ms="3146">
+      <class name="tests.PutPatchDeleteExamples">
+        <test-method signature="testDelete()[pri:0, instance:tests.PutPatchDeleteExamples@574b560f]" started-at="2022-03-07T12:42:50 CET" name="testDelete" finished-at="2022-03-07T12:42:54 CET" duration-ms="3100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+      </class> <!-- tests.PutPatchDeleteExamples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
